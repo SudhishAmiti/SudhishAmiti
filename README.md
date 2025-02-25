@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Web development**<br><br>🌱 I’m currently learning **Java, Spring boot**<br><br>💬 Ask me about **Web development**<br><br>📫 How to reach me **sudhishamiti2003@gmail.com**
+🔭 I’m currently working on **Web development**<br><br>🌱 I’m currently learning **ASP.NET, Azure, AWS**<br><br>💬 Ask me about **Web development**<br><br>📫 How to reach me **sudhishamiti2003@gmail.com**
 
 
 # 💻 Tech Stack:
